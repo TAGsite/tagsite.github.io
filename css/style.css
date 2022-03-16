@@ -3,6 +3,14 @@ div{
 }
 
 body{
-  background: url("https://github.com/TAGsite/tagsite.github.io/raw/main/content/gifs/tagif1.gif");
-  background-position: 50% 50%;
+  background-image: url("https://github.com/TAGsite/tagsite.github.io/raw/main/content/gifs/tagif1.gif");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+  background-color: #00000f;
+  image-rendering: pixelated;
+}
+
+.footing{
+	background-image: url("")
 }
