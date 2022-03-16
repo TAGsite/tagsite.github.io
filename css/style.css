@@ -4,8 +4,5 @@ div{
 
 body{
   background-image: url("https://github.com/TAGsite/tagsite.github.io/raw/main/content/gifs/tagif1.gif");
-  background-size: 100%;
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
 }
